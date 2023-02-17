@@ -24,3 +24,4 @@ console.log(fahrenheitToCelsius + " degrees Celsius");
 console.log("-----------------------");
 console.log(celsius + " degrees celsius are:");
 console.log(celsiusToFahrenheit + " degrees fahrenheit");
+//converts Distance and Temperature in js
